@@ -1,0 +1,2 @@
+Learning DevOps is important as it helps make the software development process faster, smoother, and more reliable.
+It connects developers and operations teams allowing them to work together.
