@@ -10,3 +10,13 @@ this course is awesome, and I love it for several reasons:
 
 we have learned basic GitHub actions, repos and workflows.
 it's only been 5 weeks since we started this course, and I'm really excited to learn more.
+
+devops is the future. it allows doing very cool things in a second.
+like:
+1) rolling back bad code.
+2) deploying new features.
+3) running automated tests.
+4) monitoring the system.
+5) updating critical systems.
+6) autoscale pods when needed.
+7) manage 10 servers with one gui or cli
