@@ -10,3 +10,6 @@ George Brown College has several different campuses.
 1) Casa Loma
 2) St. James
 3) Waterfront
+
+
+Casa Loma is the campus where we have classes, and it has the greatest location of all the campuses.
