@@ -1,0 +1,8 @@
+Devops Course COMP3104
+
+
+this course is awesome, and I love it for several reasons:
+
+1) It's related to pcs and servers, which was my passion for a long time.
+2) It's related to the cloud, which is a new thing for me. And I think it's really important to use nowadays.
+3) Deployment process and automations are really cool to know and study. It's basically tools that save you a lot of time.
