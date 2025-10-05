@@ -1,0 +1,4 @@
+COMP3104 - DevOps
+
+This course teaches what DevOps is, and how it helps teams build software faster and work better together.
+We learn how to use tools for automation, testing, and deployment, and get hands-on practice with real projects.
