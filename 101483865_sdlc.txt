@@ -1,1 +1,5 @@
 SDLC - Software Development Life Cycle
+
+there are 7 stages for SDLC.
+planning, analysis, design, development, testing, deployment, maintenance.
+they all work only when they are implemented together with an iterative approach.
