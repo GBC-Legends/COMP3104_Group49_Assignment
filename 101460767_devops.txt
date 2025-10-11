@@ -2,3 +2,19 @@ COMP 3104 gives hands on experience with a lot of different tools!
 
 Each week we have a 3 hour lecture/lab on Wednesday 
 We have a Quiz and a Lab due on Sunday of each week. 
+
+We have a total of 10 labs and 10 quizzes.
+we also have one solo assignment and one group assignment.
+A mid-term exam and a Final!
+
+in the first week we had the intro and talked about the some of the things to come in the cores
+
+week 2 we learned more about git, git hub and BASH
+
+week 3 was about version control and got into Travis CI
+
+week 4 we got into What is DevOps and its landscape
+
+week 5 was single page applications and hosting 
+
+week 6 we talked about Jenkins 
