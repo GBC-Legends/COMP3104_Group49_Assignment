@@ -1,0 +1,11 @@
+SDLC - Software Development Life Cycle
+
+there are 7 stages for SDLC.
+planning, analysis, design, development, testing, deployment, maintenance.
+they all work only when they are implemented together with an iterative approach.
+
+Agile methodology is almost perfect for SDLC.
+It has a lot of benefits. And it helps to improve the quality of software at every stage
+by standardizing the administrative and management policies into a very concrete framework.
+It helps projects to be more efficient and effective. It actually improves the percentage of projects
+that are completed on time or even finished.
