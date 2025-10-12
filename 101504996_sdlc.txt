@@ -1,0 +1,5 @@
+Learning DevOps is important as it helps make the software development process faster, smoother, and more reliable.
+It connects developers and operations teams allowing them to work together.
+
+DevOps also teaches how to use automation, version control, and cloud tools to make the whole process more efficient.
+Overall, understanding DevOps helps students and professionals create better software which makes it really important in the SDLC.
