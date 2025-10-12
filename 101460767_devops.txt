@@ -18,3 +18,10 @@ week 4 we got into What is DevOps and its landscape
 week 5 was single page applications and hosting 
 
 week 6 we talked about Jenkins 
+
+We now have our exam on week 9!
+
+I enjoy using GitHub and I've been liking using bash more 
+
+
+
