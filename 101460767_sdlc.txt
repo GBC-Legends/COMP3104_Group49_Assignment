@@ -1,1 +1,9 @@
-the importance of DevOps
+the importance of DevOps:
+
+It can benefit the culture at work
+
+It has a set of processes that when implemented correctly and drastically improve a lot of different aspects of a project
+
+DevOps is has faster and smarter for software Delivery
+
+
