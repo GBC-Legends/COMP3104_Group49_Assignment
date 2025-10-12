@@ -6,4 +6,12 @@ It has a set of processes that when implemented correctly and drastically improv
 
 DevOps is has faster and smarter for software Delivery
 
+DevOps Automates tasks and also improves efficiency
 
+it streamlines how systems are made and deployed 
+
+it cuts costs and reduces the effort needed
+
+improves security
+
+It is also in high demand!
